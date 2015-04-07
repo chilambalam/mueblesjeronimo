@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Establecer un borde en las imágenes para evitar que se desplacen */ 
+#gallery_01 img { 
+border:2px solid #FFF;
+margin-right:5px;
+padding:4px;
+border:1px solid #CCC;
+} /* Cambiar el color */ 
+.img activa { 
+border:2px solid #333; 
+}
