@@ -1,0 +1,843 @@
+@media screen and (max-width : 1024px){
+#tienda2 {
+	width:98%;
+}
+#btn {
+	margin-bottom:15px;
+}
+#menu {
+	width:98%;
+}
+#menu_btn li {
+	text-align:left;
+	padding:0;
+}
+#cabeza {
+	width:98%;
+}
+#logo {
+	width:11%;
+}
+#iconos {
+	margin-left:5%;
+}
+#buscador {
+	width:35%;
+	margin-left:0;
+}
+.btn_buscar {
+	width:80%;
+	background-position:right top;
+}
+#content {
+	width:98%;
+}
+	#muebles h3 {
+		font-size:44px;
+	}
+
+/************************** GARANTIA **************************/
+#promocion {
+	width:100%;
+}
+#garantia {
+	margin-top:15px;
+	width:38%;
+}
+	#text_garantia {
+		margin-left:1%;
+		width:77%;
+		padding-left:0;
+	}
+	#img_garantia {
+		width:21%;
+	}
+#garantia2 {
+	width:57%;
+	padding-left:8px;
+}
+	#text_garantia2 {
+		width:36%;
+		vertical-align:middle;
+	}	
+	#img_garantia2 {
+		width:13%;
+		}
+/************************** PIE **************************/
+#categorias {
+	width:19%;
+}
+#categorias2 {
+	width:24%;
+}
+#categorias3 {
+	width:35%;
+}
+#categorias44 {
+	display:none;
+} 
+
+/************************** CATEGORIAS **************************/
+#productos_categorias {
+	width:100%;
+}
+
+/************************** CATEGORIAS-INTERIOR **************************/
+#cont_producto {
+	width:60%;
+	margin-right:0;
+}
+#ligthbox {
+	width:100%;
+}
+#nombre_muebles {
+	width:32%;
+}
+/************************** PRODUCTOS **************************/	
+#producto {
+	width:30%;
+	margin-right:3%;
+}
+#nombre h2 {
+	width:53%;
+}
+#añadir a {
+	font-size:14px;
+}
+#productos {
+	width:29%;
+	margin-right:4%;
+}
+/************************** REGISTRARSE **************************/
+#registro {
+	width:48%;
+	margin-right:3%;
+} 
+	#bloq_registro {
+		width:100%;
+	}
+#registro2 {
+	width:48%;
+}
+/************************** CUENTA-ACTIVA **************************/
+
+#cuenta1 {
+	width:65%;
+}
+#cuenta2 {
+	width:29%;
+}
+.btn_form4 {
+	width:100%;
+}
+/************************** TIENDAS **************************/
+#mapa {
+	width:47%;
+}
+#mapa2 {
+	width:47%;
+}
+#inframe_map {
+	height:300px;
+}
+#dato_map {
+	text-align:center;
+	width:34%;
+}
+#dato2_map {
+	text-align:center;
+	width:29%;
+	padding:0 5px;
+}
+#dato3_map {
+	text-align:center;
+	width:32%
+}
+/************************** CONTACTO **************************/
+#contacto_img {
+	width:36%;
+}
+#formulario {
+	width:56%;
+	margin-left:7%;
+}
+	.btn_form1 {
+		width:47%;
+		margin-right:2%;
+	}
+	.btn_form2 {
+		width:47%;
+	}
+	.btn_form3 {
+		width:98%;
+	}
+#dato {
+	width:33%;
+}
+#dato2 {
+	width:27%;
+}
+#dato3 {
+	width:34%;
+}
+/************************** CARRITO **************************/
+#img_carrito {
+	width:38%;
+}
+#nombre_carrito {
+	width:32%;
+}
+#precio_carrito {
+	width:29%;
+}
+/************************** PEDIDOS **************************/
+#nuevo_cliente {
+	width:31%;
+	margin-right:6%;
+}
+#soy_cliente {
+	width:32%;
+}
+#img_pedidos {
+	width:27%;
+}
+#content_producto {
+	width:59%;
+	margin-left:1%;
+}
+
+}
+
+@media screen and (max-width: 846px){
+#content {
+	width:98%;
+}
+/************************** INDEX **************************/
+#muebles h3 {
+	font-size:37px;
+}
+
+/************************** PIE **************************/
+
+#categorias3 {
+	width:34%;
+}
+#text_garantia h2 {
+	font-size:20px;
+}
+#garantia2 p {
+	font-size:14px;
+	width:187px;
+}
+#text_garantia2 {
+	width:41%;
+}
+#buscador {
+	width:30%;
+}
+#buscador h2 {
+	font-size:25px;
+}
+/************************** CONTACTO **************************/
+#contacto_img {
+	width:34%;
+}
+#formulario {
+width: 62%;
+margin-left: 3%;
+}
+#dato3 {
+	width:33%;
+}
+
+}
+@media screen and (max-width: 768px){
+/************************** HEAD **************************/
+#menu {
+	width:98%;
+}
+		
+#logo {
+	width:16%;
+}
+#iconos {
+	width:77%;
+	text-align:center;
+}
+#buscador {
+	margin-top:20px;
+	width:100%;
+}
+	#buscador h2 {
+		margin-right:2%;
+		display:inline-block;
+	}
+	#buscador p {
+		display:inline-block;
+	}
+	#btn_buscar {
+		display:inline-block;
+		width:44%;
+	}
+	.btn_buscar {
+		width:97%;
+	}
+/************************** INDEX **************************/	
+#muebles h3 {
+	font-size:35px;
+}
+#muebles p {
+	margin-bottom:15px;
+}
+#nombre h2 {
+	width:52%;
+}
+/************************** GARANTIA **************************/	
+#garantia {
+	width:40%;
+}
+
+#garantia2 {
+	display:none;
+}
+#garantia4 {
+	width:56%;
+	display:inline-block;
+}
+	#img_garantia2 {
+		display:inline-block;
+		width:30%;
+		margin-right:1%;
+	}
+	#garantia_text {
+		vertical-align:middle;
+		display:inline-block;
+		width:68%;
+	}
+		#text_garantia2 {
+			width:100%;
+		}
+		#garantia_text p {
+			font-size:18px;
+			font-weight:600;
+			color:#000;
+			margin-bottom:10px;
+		}
+		#text_garantia2 {
+			font-size:16px;
+			font-weight:300;
+			letter-spacing:1px;
+		}
+/************************** PRODUCTOS **************************/
+#productos {
+	width:45%;
+}
+	#nombre h2 {
+		width:59%;
+	}
+	
+	#dato_map {
+		width:53%;
+	}
+	#dato2_map {
+		width:34%;
+		border-right:0;
+	}
+	#dato3_map {
+		margin-top:5px;
+		width:98%;
+		}
+#nombre h2 {
+	width:52%;
+}
+/************************** TIENDAS **************************/	
+#mapa {
+	width:46%;
+}
+/************************** CUENTA-ACTIVA **************************/	
+#cuenta1 {
+	width:64%;
+}
+	#cuenta2 h2 {
+		font-size:19px;
+	}
+/************************** CATEGORIA-INTERIOR **************************/
+#productos {
+	width:29%;
+}
+
+#lado_iz {
+	width:100%;
+}
+
+#content_producto {
+	width:97%;
+	margin:0;
+}
+#nombre_muebles {
+	width:97%;
+}
+#precio {
+	margin-bottom:10px;
+	float:none;
+	display:block;
+}
+.bold_24 {
+	margin-bottom:15px;
+}
+#inf1 p {
+	display:none;
+}
+
+#inf2 {
+	display:inline-block;
+	width:33%;
+}
+
+
+	
+}
+
+@media screen and (max-width: 736px){
+/************************** PLANTILLA **************************/
+#btn_buscar {
+	width:41%;
+}
+.siguenos {
+	display:block;
+	width:100%;
+	margin-bottom:5px;
+}
+#datos img {
+	margin-right:4px;
+}
+#categorias {
+	width:21%;
+}
+#categorias2 {
+	width:20%;
+}
+#categorias44 {
+	width:22%;
+}
+#text_garantia h2 {
+	font-size:19px;
+}
+/************************** HOME **************************/
+#muebles h3 {
+	font-size:30px;
+}
+/************************** CATEGORIA **************************/
+#productos_categorias {
+	width:100%;
+}
+/************************** CARRITO **************************/
+#img_carrito {
+	width:32%;
+}
+#nombre_carrito {
+	text-align:center;
+	vertical-align:middle;
+}
+#precio_carrito {
+	vertical-align:middle;
+}
+/************************** MPAPA **************************/
+#titulo_map h2 {
+	font-size:21px;
+	letter-spacing:5px;
+}
+#dato_map {
+	width:56%;
+}
+#dato2_map {
+	width:39%;
+}
+#inframe_map {
+	height:270px;
+}
+/************************** CONTACTO **************************/
+.btn_form1 {
+	width:46%;
+}
+#dato {
+	width:54%;
+}
+#dato2 {
+	width:40%;
+	border-right:none;
+}
+#dato3 {
+	width:100%;
+}
+/************************** PRODUCTOS **************************/
+#nombre h2 {
+	width:99%;
+}
+#precio {
+	margin-top:5px;
+}
+
+
+}
+
+@media screen and (max-width: 680px){
+/************************** PLANTILLA **************************/
+#menu {
+	width:99%;
+	padding:0;
+	margin:0;
+}
+#menu_btn {
+	width:98%;
+}
+#cabeza {
+	margin:0;
+	padding:0;
+}
+#logo {
+	width:22%;
+}
+#iconos {
+	width:72%;
+	vertical-align:middle;
+}
+#flecha {
+	margin:0;
+}
+#btn_buscar {
+	width:99%;
+}
+
+/************************** GARANTIA **************************/
+#img_garantia {
+	display:none;
+}
+#text_garantia {
+	padding-left:10px;
+	width:98%;
+}
+#garantia {
+	text-align:center;
+	width:98%;
+	padding:0 0 10px 0;
+	margin:0 0 10px 0;
+	border-right:0;
+	border-bottom:1px solid #CCC;
+}
+	#text_garantia h2 {
+		font-size:14px;
+	}
+#garantia4 {
+	display:none;
+}
+#garantia2 {
+	display:none;
+}
+	#garantia4 {
+		display:block;
+		width:97%;
+	}
+#muebles h3 {
+	line-height:30px;
+	font-size:26px;
+}
+#muebles h3 img {
+	display:none;
+}
+
+/************************** PRODUCTOS **************************/
+#producto {
+	text-align:left;
+	width:46%;
+}
+#precio {
+	float:none;
+	text-align:center;
+}
+#productos {
+	width:46%;
+	margin-right:3%;
+}
+
+/************************** PIE **************************/
+#categorias {
+	border-bottom:1px solid #FFF;
+	margin-bottom:10px;
+	padding-bottom:10px;
+	width:100%;
+}
+#categorias ul {
+	margin:0;
+}
+#categorias ul li {
+	font-weight:400;
+	padding:0 3px 0 3px;
+	display:inline-block;
+}
+#categorias ul li a {
+	font-weight:400;
+}
+#categorias ul li a:hover {
+	color:#9EE700;
+}
+#categorias2 {
+	border-bottom:1px solid #FFF;
+	padding-bottom:10px;
+	margin-bottom:10px;
+	width:100%;
+}
+	#pie_btn li a img {
+		display:inline-block;
+		margin-right:15px;
+		vertical-align:middle;
+	}
+
+#categorias3 {
+	text-align:left;
+	width:100%;
+	border:0;
+}
+	#redes {
+		width:42%;
+		vertical-align:middle;
+		display:inline-block;
+	}
+#datos {
+	vertical-align:middle;
+	width:48%;
+	display:inline-block;
+	text-align:left;
+}
+/************************** TIENDA **************************/
+#mapa {
+	width:98%;
+	padding:0 0 15px 0;
+	margin:0 0 15px 0;
+	border-right:none;
+	border-bottom:1px solid #CCC;
+}
+#mapa2 {
+	width:98%;
+	padding:0;
+	margin:0;
+	border:none;
+	
+}
+
+/************************** CONTACTO **************************/
+
+#formulario {
+	width:100%;
+	width:95%;
+}
+	.btn_form3 {
+		width:97%;
+	}
+/************************** CARRITO **************************/
+#img_carrito {
+	width:27%;
+}
+#nombre_carrito {
+	width:47%;
+}
+	#nombre_carrito h2 {
+		font-size:23px;
+	}
+#precio_carrito {
+	width:20%;
+}
+#carrito {
+	margin-bottom:25px;
+}
+/************************** PEDIDOS **************************/
+#img_pedidos {
+	display:none;
+}
+#nuevo_cliente {
+	width:98%;
+	margin:0 0 25px 0;
+	padding:0;
+}
+#soy_cliente {
+	width:98%;
+	margin:0;
+	padding:0;
+}
+/************************** REGISTRO **************************/
+#registro {
+	margin:0;
+	width:98%;
+}
+#registro2 {
+	width:98%;
+	margin-bottom:20px;
+}
+#tit_registro2 {
+	width:100%;
+}
+
+#cuenta1 {
+	width:97%;
+	margin:0;
+	padding:0;
+	border:none;
+}
+.btn_form4 {
+	width:99%;
+}
+
+#int_slider p {
+	width:98%;
+	margin:0 0 15px 0;
+}
+#listado_cont {
+	width:98%;
+	margin:0 0 15px 0;
+}
+#int_slider p {
+	width:49%;
+	display:inline-block;
+}
+#cuenta2 {
+	width:100%;
+	padding:0;
+}
+#listado2 {
+	width:98%;
+}
+
+
+#inf2 {
+	width:48%;
+}
+
+/********PRODUCTOS INTERIOR*********/
+
+#inf_izq {
+	width:59%
+}
+#inf_der {
+	width:40%;
+}
+#int_slider p {
+	width:98%;
+}
+/********REGISTRO*********/
+  #botones {
+	  text-align:center;
+	  width:48%;
+	  display:inline-block;
+	 }
+.campos3 {
+	width:71%;
+}
+}
+
+
+@media screen and (max-width: 465px){ 
+#iconos {
+	display:none;
+}
+#buscador h2 {
+	display:none;
+}
+#buscador p {
+	display:none;
+}
+#buscador {
+	margin-bottom:15px;
+}
+/************************** PIE **************************/ 
+#datos {
+	width:99%;
+	border:0;
+	margin:0;
+	padding:0 0 0 5px;;
+}
+#redes {
+	width:95%;
+}
+#categorias {
+}
+#categorias2 {
+	width:95%;
+	padding:0 0 15px 5px;
+}
+#redes {
+	display:none;
+}
+
+
+
+#banner {
+	width:100%;
+}
+
+#productos {
+	width:98%;
+	margin:0;
+}
+
+
+.btn_form1 {
+	width:98%;
+	margin:0 0 15px 0;
+}
+.btn_form2 {
+	margin-bottom:15px;
+	width:98%;
+}
+
+#categorias ul li {
+	width:31%;
+}
+
+#dato {
+	text-align:left;
+	width:98%;
+	margin:0 0 15px 0;
+	padding:0;
+}
+#dato2 {
+	text-align:left;
+	border:0;
+	width:98%;
+	margin:0 0 15px 0;
+	padding:0;
+}
+#dato3 {
+	text-align:left;
+	width:98%;
+	margin:0 0 15px 0;
+	padding:0;
+} 
+
+#inf_izq {
+	width:99%;
+}
+
+#inf_izq2 {
+	margin-bottom:25px;
+	width:99%;
+}
+
+#inf_der2 {
+	width:99%;
+	margin-bottom:25px;
+}
+
+#nombre_muebles {
+	width:95%;
+}
+#inf_der {
+	width:97%;
+}
+
+#producto {
+	width:98%;
+}
+}
+
+
+
